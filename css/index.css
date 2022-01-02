@@ -147,6 +147,10 @@ img {
   display: none;
 }
 
+.enter-line{
+  display: none;
+}
+
 @media screen and (max-width: 767px) {
   .grid-menu-6 {
     grid-template-columns: 1fr 1fr;
@@ -171,11 +175,11 @@ img {
   }
 
   .ct-footer {
-    padding: 20px 20px;
+    padding: 20px 0px;
   }
 
-  .name-footer {
-    padding: 0px 70px;
+  .enter-line{
+    display: block;
   }
 
   .ct-footer .contact-footer {
