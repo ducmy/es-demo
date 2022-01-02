@@ -193,4 +193,9 @@ img {
   .title-menu h3{
     padding: 0px 5px;
   }
+
+  .grid-menu-6 .item-grid-6 img {
+    width: 70px;
+    height: 70px;
+  }
 }
